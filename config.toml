@@ -2,7 +2,7 @@ baseURL = 'https://bunny-thief.github.io/tech-bytes/'
 languageCode = 'en-us'
 theme = 'inkblotty'
 enableEmoji = true
-publishdir = "/"
+
 [params]
 title = 'Tech Bytes'
 author ='Jacques'
